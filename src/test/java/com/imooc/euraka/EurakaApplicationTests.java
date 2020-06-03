@@ -8,6 +8,7 @@ class EurakaApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("===================");
     }
 
 }
